@@ -1,2 +1,6 @@
-title: Documentation
+# configuration jekyll
+title: Memorafy
 theme: jekyll-theme-cayman
+timezone: Asia/Jakarta
+source: .
+destination:./pages
