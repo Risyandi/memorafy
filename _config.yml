@@ -1,6 +1,6 @@
-# configuration jekyll
+# configuration of jekyll
 title: Memorafy
-description : Memorafy are a documentation for best practices programming.
+description : Memorafy are a documentation for best practices of programming.
 theme: jekyll-theme-cayman
 timezone: Asia/Jakarta
 source: .
